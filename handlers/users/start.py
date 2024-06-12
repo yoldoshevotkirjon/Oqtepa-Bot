@@ -995,7 +995,7 @@ Miqdorini tanlang yoki kiriting
 
 
 
-
+#Qalaysan
 
 
 
